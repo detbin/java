@@ -1,4 +1,5 @@
 6629JHZ:DatosdelCoche{Nombre='MANUEL_PEREZ', Dni='26771063H', Tel='626876345', Email='MPEREZ@HOTMAIL.COM', Marca='TOYOTA', Color='BLANCO', Modelo='PRIUS', Motor='1800CC', Puestos='5'}
 7654UST:DatosdelCoche{Nombre='PACO_OLIVARES', Dni='26756324H', Tel='643546543', Email='PACOOL@OUTLOOK.COM', Marca='FIAT', Color='VERDE', Modelo='UNO', Motor='1300CC', Puestos='5'}
+2022RTD:DatosdelCoche{Nombre='BEGO_SUAREZ', Dni='26754345H', Tel='645342754', Email='BEGOSA@HOTMAIL.COM', Marca='ALFAROMEO', Color='ROJO', Modelo='JULIA', Motor='1600CC', Puestos='5'}
 4562YWS:DatosdelCoche{Nombre='PEDRO_PEREZ', Dni='32456864Y', Tel='352235424', Email='PEDROP@YAHOO.ES', Marca='JEEP', Color='DORADO', Modelo='CHEROKEE', Motor='3800CC', Puestos='7'}
 6256JHS:DatosdelCoche{Nombre='CAROLINA_CONDE', Dni='46752345Y', Tel='722345264', Email='CCONDE@GMAIL.COM', Marca='HYUNDAY', Color='GRIS', Modelo='I30', Motor='1200CC', Puestos='5'}
